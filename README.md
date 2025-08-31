@@ -16,7 +16,9 @@ For this project, the goal was to determine if public libraries and public libra
 Two sets of data were used for this analysis: 
 <ul>
   <li>Public Libraries Survey from the Institute of Museum and Library Sciences (IMLS).</li>
+  Source: https://www.imls.gov/research-evaluation/surveys/public-libraries-survey-pls
   <li>U.S. Skills Map: State and County Indicators of Adult Literacy and Numeracy from the National Center for Education Statistics (NCES) in partnership with the Program for the International Assessment of Adult Competencies (PIAAC).</li>
+  Source: https://nces.ed.gov/surveys/piaac/skillsmap/
 </ul>
 
 ## Systems Used
