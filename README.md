@@ -18,7 +18,9 @@ Two sets of data were used for this analysis:
   <li>Public Libraries Survey from the Institute of Museum and Library Sciences (IMLS).</li>
   Source: https://www.imls.gov/research-evaluation/surveys/public-libraries-survey-pls
   <li>U.S. Skills Map: State and County Indicators of Adult Literacy and Numeracy from the National Center for Education Statistics (NCES) in partnership with the Program for the International Assessment of Adult Competencies (PIAAC).</li>
-  Source: https://nces.ed.gov/surveys/piaac/skillsmap/
+  Source: https://nces.ed.gov/surveys/piaac/skillsmap
+  <li>Unemployment Rate - Bachelor's Degree and Higher, 25 Yrs. & over from the Federal Reserve Bank of St. Louis was used for the time series analysis portion</li>
+  Source: https://fred.stlouisfed.org/series/LNU04027662
 </ul>
 
 ## Systems Used
