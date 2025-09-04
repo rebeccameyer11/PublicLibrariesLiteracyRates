@@ -53,7 +53,7 @@ Python was used for data analysis, with the following libraries:
 </ul>
 
 ## Final Deliverable
-Tableau Storyboard: https://public.tableau.com/views/LiteracyRatesStory-Achievement6/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau Storyboard: https://public.tableau.com/app/profile/rebecca.meyer5351/viz/LiteracyRatesStory/Story1?publish=yes
 <ul>
   <li>This storyboard does not contain every step taken as part of the analysis — only steps relevant to the final results.</li>
 </ul>
