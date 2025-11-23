@@ -44,7 +44,7 @@ Python was used for data analysis, with the following libraries:
 
 ## Key Takeaways
 <ul>
-  <li>The state with the highest percentage of low literacy individuals is Texas (10.83%).</li>
+  <li>The state with the highest percentage of low literacy individuals is Texas (11.06%).</li>
   <li>The highest density of public libraries are located in the North/Northeast region.</li>
   <li>Individuals who are employed typically fall into the "average literacy" category.</li>
   <li>There is no correlation between any government funding (local, state, federal) and literacy rates.</li>
